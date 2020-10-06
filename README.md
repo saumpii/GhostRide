@@ -1,0 +1,2 @@
+# GhostRide
+Development mode parallex
